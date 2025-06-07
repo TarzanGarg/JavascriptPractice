@@ -4,7 +4,6 @@ console.log(`my name is ${name} and my age is ${age}`)
 console.log("hello world")
 console.log("hello world")
 console.log("hello world")
-console.log("hello world")
 
 function add(a, b){
     return a+b;

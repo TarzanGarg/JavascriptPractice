@@ -5,6 +5,7 @@ function add(a, b){
 
     throw "Input must be valid numbers"
 }
+console.log("Tarzan Garg");
 
 let sum = add(2, "3");
 console.log(sum) 

@@ -8,8 +8,6 @@ function add(a, b){
 console.log("Tarzan Garg");
 console.log("Tarzan Garg");
 console.log("Tarzan Garg");
-console.log("Tarzan Garg");
-
 
 let sum = add(2, "3");
 console.log(sum) 
